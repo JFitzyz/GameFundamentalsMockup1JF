@@ -13,3 +13,4 @@ Storyline is still a work in progress, this was initially going to be simply a p
 - John Fitzsimons (Ghost sprite)
 - V S M O D E (Demon sprite)
 - styloo (House interior asset pack)
+- Infinityltu (Fireball asset)
